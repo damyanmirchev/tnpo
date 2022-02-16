@@ -1,0 +1,36 @@
+# The Original Wikipedia page:
+
+    Collatz conjecture:
+    https://en.wikipedia.org/wiki/Collatz_conjecture
+
+
+# The best YouTube video on the subject:
+
+    https://www.youtube.com/watch?v=094y1Z2wpJg
+
+    The Simplest Math problem no one can solve.
+    Or The Most Dangerous problem in Math.
+
+
+# Some Python Implementations:
+
+    https://hackernoon.com/implementing-3x1-in-python
+    https://medium.com/@aseemkohli_36958/collatz-conjecture-with-python-834b97171e2a
+
+
+# Python Chart/Graph Libraries:
+
+    https://www.askpython.com/python/python-plotting-and-graph-libraries
+    https://realpython.com/python-data-visualization-bokeh/
+    https://wiki.python.org/moin/PythonGraphLibraries
+
+
+# Other PP Presentations
+
+    https://www.slideserve.com/peri/the-collatz-problem
+
+
+# Other Interesting Math Problems / Theorems:
+
+    https://en.wikipedia.org/wiki/Halting_problem
+    https://en.wikipedia.org/wiki/Rice%27s_theorem
